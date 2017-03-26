@@ -1,0 +1,72 @@
+.analyzeBtn {
+    -fx-padding: 15 30;   
+    -fx-border-color: #e91e63;
+    -fx-border-width: 2;
+    -fx-background-radius: 0;
+    -fx-background-color: #fff;
+    -fx-font-family: "Segoe UI", Helvetica, Arial, sans-serif;
+    -fx-font-size: 11pt;
+    -fx-text-fill: #000;
+    -fx-background-insets: 0 0 0 0, 0, 1, 2;
+}
+
+.analyzeBtn:hover {
+    -fx-border-color: #278EE6;
+}
+
+.analyzeBtn:pressed, .analyzeBtn:default:hover:pressed {
+	-fx-border-color: #1ED760;
+}
+
+.analyzeBtn:focused {
+
+}
+
+.analyzeBtn:disabled, .analyzeBtn:default:disabled {
+
+}
+
+.analyzeBtn:default {
+
+}
+
+.analyzeBtn:default:hover {
+
+}
+
+
+.fileBtn {
+    -fx-padding: 0 0;   
+    -fx-border-color: #e91e63;
+    -fx-border-width: 2;
+    -fx-background-radius: 0;
+    -fx-background-color: #fff;
+    -fx-font-family: "Segoe UI", Helvetica, Arial, sans-serif;
+    -fx-font-size: 11pt;
+    -fx-text-fill: #000;
+    -fx-background-insets: 0 0 0 0, 0, 1, 2;
+}
+
+.fileBtn:hover {
+    -fx-border-color: #278EE6;
+}
+
+.fileBtn:pressed, .fileBtn:default:hover:pressed {
+	-fx-border-color: #1ED760;
+}
+
+.fileBtn:focused {
+
+}
+
+.fileBtn:disabled, .fileBtn:default:disabled {
+
+}
+
+.fileBtn:default {
+
+}
+
+.fileBtn:default:hover {
+
+}
